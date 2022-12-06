@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Best Prompts for Text-to-Image Models and How to
+  Find Them
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nikita
+    family-names: Pavlichenko
+    email: pavlichenko@toloka.ai
+    affiliation: Toloka
+    orcid: 'https://orcid.org/0000-0002-7330-393X'
+  - given-names: Fedor
+    family-names: Zhdanov
+    email: fedorzh@toloka.ai
+    affiliation: Toloka
+  - given-names: Dmitry
+    family-names: Ustalov
+    email: dustalov@toloka.ai
+    affiliation: Toloka
+    orcid: 'https://orcid.org/0000-0002-9979-2188'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2209.11711'
+    description: ArXiv link
+repository-code: 'https://github.com/Toloka/BestPrompts'
+abstract: >-
+  Recent progress in generative models, especially in
+  text-guided diffusion models, has enabled the
+  production of aesthetically-pleasing imagery
+  resembling the works of professional human artists.
+  However, one has to carefully compose the textual
+  description, called the prompt, and augment it with
+  a set of clarifying keywords. Since aesthetics are
+  challenging to evaluate computationally, human
+  feedback is needed to determine the optimal prompt
+  formulation and keyword combination. In this paper,
+  we present a human-in-the-loop approach to learning
+  the most useful combination of prompt keywords
+  using a genetic algorithm. We also show how such an
+  approach can improve the aesthetic appeal of images
+  depicting the same descriptions.
+license: Apache-2.0
+date-released: '2022-12-06'
