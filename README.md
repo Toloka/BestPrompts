@@ -1,2 +1,1 @@
-# BestPrompts
-Best Prompts for Text-to-Image Models
+# Best Prompts for Text-to-Image Models  and How to Find Them
