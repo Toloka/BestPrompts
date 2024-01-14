@@ -35,16 +35,23 @@ https://storage.yandexcloud.net/diffusion/0000298d546d4a6299774ca323fa7f34_0.png
 
 ## Cite
 
-Use this BibTeX citation in case you want to cite our work.
+- Pavlichenko, N., Ustalov, D.: Best Prompts for Text-to-Image Models and How to Find Them. In: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. pp. 2067&ndash;2071. Association for Computing Machinery, Taipei, Taiwan (2023). <https://doi.org/10.1145/3539618.3592000>
+
 ```
-@misc{https://doi.org/10.48550/arxiv.2209.11711,
-  doi = {10.48550/ARXIV.2209.11711},
-  url = {https://arxiv.org/abs/2209.11711},
-  author = {Pavlichenko, Nikita and Zhdanov, Fedor and Ustalov, Dmitry},
-  keywords = {Human-Computer Interaction (cs.HC), Computation and Language (cs.CL), Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences, H.5.2; H.3.3},
-  title = {Best Prompts for Text-to-Image Models and How to Find Them},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+@inproceedings{Pavlichenko:23,
+  author    = {Pavlichenko, Nikita and Ustalov, Dmitry},
+  title     = {{Best Prompts for Text-to-Image Models and How to Find Them}},
+  year      = {2023},
+  booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  series    = {SIGIR '23},
+  pages     = {2067--2071},
+  address   = {Taipei, Taiwan},
+  publisher = {Association for Computing Machinery},
+  doi       = {10.1145/3539618.3592000},
+  isbn      = {978-1-4503-9408-6},
+  eprint    = {2209.11711},
+  eprinttype = {arxiv},
+  eprintclass = {cs.HC},
+  language  = {english},
 }
 ```
