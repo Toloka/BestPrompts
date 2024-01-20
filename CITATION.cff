@@ -60,8 +60,8 @@ preferred-citation:
   collection-title: "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval"
   conference:
     name: "46th International ACM SIGIR Conference on Research and Development in Information Retrieval"
-    date-start: "2023-07-23"
-    date-end: "2023-07-27"
+    date-start: 2023-07-23
+    date-end: 2023-07-27
   doi: "10.1145/3539618.3592000"
   isbn: "978-1-4503-9408-6"
-date-released: "2022-12-06"
+date-released: 2022-12-06
